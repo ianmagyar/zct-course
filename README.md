@@ -36,8 +36,7 @@ Znenie prvého zadania nájdete [tu](https://github.com/ianmagyar/zct-course/blo
 7. cvičenie (25. 3. 2019)
 	* úložiská a databázy na MS Azure
 8. cvičenie (1. 4. 2019)
-	* deploynutie na cloud
-	* kontajnerizácia
+	* Rest API
 9. cvičenie (8. 4. 2019)
 	* cloudová robotika
 	* konzultácia k zadaniam
