@@ -23,7 +23,7 @@ Znenie prvého zadania nájdete [tu](https://github.com/ianmagyar/zct-course/blo
     * vytvorenie študentského konta na [MS Azure](https://azure.microsoft.com/en-us/free/students/)
     * potrebný software pre ďalšie cvičenia: Microsoft Visual Studio (dostupný cez [MSDN](https://nastavenia.tuke.sk/msdn/postup))
 2. cvičenie (18. 2. 2019)
-	* MVC tutorial
+	* [MVC tutorial](https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/)
 3. cvičenie (25. 2. 2019)
 	* Machine Learning Studio
 4. cvičenie (4. 3. 2019)
