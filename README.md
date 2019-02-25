@@ -25,7 +25,7 @@ Znenie prvého zadania nájdete [tu](https://github.com/ianmagyar/zct-course/blo
 2. cvičenie (18. 2. 2019)
 	* [MVC tutorial](https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/)
 3. cvičenie (25. 2. 2019)
-	* Machine Learning Studio
+	* [Machine Learning Studio](https://docs.microsoft.com/en-us/azure/machine-learning/studio/create-experiment)
 4. cvičenie (4. 3. 2019)
 	* webové applikácie v Python Flask
 5. cvičenie (11. 3. 2019)
