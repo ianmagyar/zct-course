@@ -17,6 +17,9 @@ Znenie prvého zadania nájdete [tu](https://github.com/ianmagyar/zct-course/blo
 
 ## Prednášky
 1. prednáška (12. 2. 2019; doc. Bundzel)
+2. prednáška (5. 3. 2019; Ing. Magyar)
+	* [Virtualizácia](https://github.com/ianmagyar/zct-course/blob/master/lectures/lecture_2.pdf)
+	* [Kontajnerizácia](https://github.com/ianmagyar/zct-course/blob/master/lectures/lecture_3.pdf)
 
 ## Cvičenia
 1. cvičenie (11. 2. 2019)
