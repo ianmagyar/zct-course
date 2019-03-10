@@ -19,7 +19,7 @@ Datasety:
 10. [Mushroom](http://archive.ics.uci.edu/ml/datasets/Mushroom)
 
 ## Popis riešenia
-Zadania sa skladá z dvoch základných častí: služba pre klasifikáciu údajov a webová aplikácia.
+Zadanie sa skladá z dvoch základných častí: služba pre klasifikáciu údajov a webová aplikácia.
 
 ### Služba pre klasifikáciu údajov
 Na vytvorenie služby pre klasifikáciu údajov použite [MS Azure Machine Learning Studio](https://studio.azureml.net). Pre úspešné odovzdanie je potrebné vytvoriť službu, natrénovať model, službu následne deploynúť a použiť vo webovej aplikácii.
