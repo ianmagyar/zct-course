@@ -1,0 +1,97 @@
+E:\Teaching\2018-ZCT\Exam problems\ExamProject1\ExamProject1\bin\ApplicationInsights.config
+E:\Teaching\2018-ZCT\Exam problems\ExamProject1\ExamProject1\bin\ExamProject1.dll.config
+E:\Teaching\2018-ZCT\Exam problems\ExamProject1\ExamProject1\bin\ExamProject1.dll
+E:\Teaching\2018-ZCT\Exam problems\ExamProject1\ExamProject1\bin\ExamProject1.pdb
+E:\Teaching\2018-ZCT\Exam problems\ExamProject1\ExamProject1\bin\Antlr3.Runtime.dll
+E:\Teaching\2018-ZCT\Exam problems\ExamProject1\ExamProject1\bin\EntityFramework.dll
+E:\Teaching\2018-ZCT\Exam problems\ExamProject1\ExamProject1\bin\EntityFramework.SqlServer.dll
+E:\Teaching\2018-ZCT\Exam problems\ExamProject1\ExamProject1\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Teaching\2018-ZCT\Exam problems\ExamProject1\ExamProject1\bin\Microsoft.AI.DependencyCollector.dll
+E:\Teaching\2018-ZCT\Exam problems\ExamProject1\ExamProject1\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Teaching\2018-ZCT\Exam problems\ExamProject1\ExamProject1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Teaching\2018-ZCT\Exam problems\ExamProject1\ExamProject1\bin\Microsoft.AI.Web.dll
+E:\Teaching\2018-ZCT\Exam problems\ExamProject1\ExamProject1\bin\Microsoft.AI.WindowsServer.dll
+E:\Teaching\2018-ZCT\Exam problems\ExamProject1\ExamProject1\bin\Microsoft.ApplicationInsights.dll
+E:\Teaching\2018-ZCT\Exam problems\ExamProject1\ExamProject1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Teaching\2018-ZCT\Exam problems\ExamProject1\ExamProject1\bin\Microsoft.Web.Infrastructure.dll
+E:\Teaching\2018-ZCT\Exam problems\ExamProject1\ExamProject1\bin\Newtonsoft.Json.dll
+E:\Teaching\2018-ZCT\Exam problems\ExamProject1\ExamProject1\bin\System.Web.Helpers.dll
+E:\Teaching\2018-ZCT\Exam problems\ExamProject1\ExamProject1\bin\System.Web.Mvc.dll
+E:\Teaching\2018-ZCT\Exam problems\ExamProject1\ExamProject1\bin\System.Web.Optimization.dll
+E:\Teaching\2018-ZCT\Exam problems\ExamProject1\ExamProject1\bin\System.Web.Razor.dll
+E:\Teaching\2018-ZCT\Exam problems\ExamProject1\ExamProject1\bin\System.Web.WebPages.Deployment.dll
+E:\Teaching\2018-ZCT\Exam problems\ExamProject1\ExamProject1\bin\System.Web.WebPages.dll
+E:\Teaching\2018-ZCT\Exam problems\ExamProject1\ExamProject1\bin\System.Web.WebPages.Razor.dll
+E:\Teaching\2018-ZCT\Exam problems\ExamProject1\ExamProject1\bin\WebGrease.dll
+E:\Teaching\2018-ZCT\Exam problems\ExamProject1\ExamProject1\bin\EntityFramework.xml
+E:\Teaching\2018-ZCT\Exam problems\ExamProject1\ExamProject1\bin\EntityFramework.SqlServer.xml
+E:\Teaching\2018-ZCT\Exam problems\ExamProject1\ExamProject1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Teaching\2018-ZCT\Exam problems\ExamProject1\ExamProject1\bin\System.Web.Helpers.xml
+E:\Teaching\2018-ZCT\Exam problems\ExamProject1\ExamProject1\bin\System.Web.Mvc.xml
+E:\Teaching\2018-ZCT\Exam problems\ExamProject1\ExamProject1\bin\System.Web.Optimization.xml
+E:\Teaching\2018-ZCT\Exam problems\ExamProject1\ExamProject1\bin\System.Web.Razor.xml
+E:\Teaching\2018-ZCT\Exam problems\ExamProject1\ExamProject1\bin\System.Web.WebPages.xml
+E:\Teaching\2018-ZCT\Exam problems\ExamProject1\ExamProject1\bin\System.Web.WebPages.Deployment.xml
+E:\Teaching\2018-ZCT\Exam problems\ExamProject1\ExamProject1\bin\System.Web.WebPages.Razor.xml
+E:\Teaching\2018-ZCT\Exam problems\ExamProject1\ExamProject1\bin\Antlr3.Runtime.pdb
+E:\Teaching\2018-ZCT\Exam problems\ExamProject1\ExamProject1\bin\Newtonsoft.Json.xml
+E:\Teaching\2018-ZCT\Exam problems\ExamProject1\ExamProject1\bin\Microsoft.ApplicationInsights.xml
+E:\Teaching\2018-ZCT\Exam problems\ExamProject1\ExamProject1\bin\Microsoft.AI.DependencyCollector.xml
+E:\Teaching\2018-ZCT\Exam problems\ExamProject1\ExamProject1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Teaching\2018-ZCT\Exam problems\ExamProject1\ExamProject1\bin\Microsoft.AI.WindowsServer.xml
+E:\Teaching\2018-ZCT\Exam problems\ExamProject1\ExamProject1\bin\Microsoft.AI.Web.xml
+E:\Teaching\2018-ZCT\Exam problems\ExamProject1\ExamProject1\obj\Debug\ExamProject1.csprojResolveAssemblyReference.cache
+E:\Teaching\2018-ZCT\Exam problems\ExamProject1\ExamProject1\obj\Debug\ExamProject1.csproj.CoreCompileInputs.cache
+E:\Teaching\2018-ZCT\Exam problems\ExamProject1\ExamProject1\obj\Debug\ExamProject1.dll
+E:\Teaching\2018-ZCT\Exam problems\ExamProject1\ExamProject1\obj\Debug\ExamProject1.pdb
+E:\Teaching\2018-ZCT\Exam problems\ExamProject1\ExamProject1\bin\App_Data\CarData.mdf
+E:\Teaching\2018-ZCT\Exam problems\ExamProject1\ExamProject1\bin\App_Data\CarData_log.ldf
+C:\Users\Ian\Desktop\test\ExamProject1\bin\ApplicationInsights.config
+C:\Users\Ian\Desktop\test\ExamProject1\bin\App_Data\CarData.mdf
+C:\Users\Ian\Desktop\test\ExamProject1\bin\App_Data\CarData_log.ldf
+C:\Users\Ian\Desktop\test\ExamProject1\bin\ExamProject1.dll.config
+C:\Users\Ian\Desktop\test\ExamProject1\bin\ExamProject1.dll
+C:\Users\Ian\Desktop\test\ExamProject1\bin\ExamProject1.pdb
+C:\Users\Ian\Desktop\test\ExamProject1\bin\Antlr3.Runtime.dll
+C:\Users\Ian\Desktop\test\ExamProject1\bin\EntityFramework.dll
+C:\Users\Ian\Desktop\test\ExamProject1\bin\EntityFramework.SqlServer.dll
+C:\Users\Ian\Desktop\test\ExamProject1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ian\Desktop\test\ExamProject1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ian\Desktop\test\ExamProject1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ian\Desktop\test\ExamProject1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ian\Desktop\test\ExamProject1\bin\Microsoft.AI.Web.dll
+C:\Users\Ian\Desktop\test\ExamProject1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ian\Desktop\test\ExamProject1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ian\Desktop\test\ExamProject1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ian\Desktop\test\ExamProject1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ian\Desktop\test\ExamProject1\bin\Newtonsoft.Json.dll
+C:\Users\Ian\Desktop\test\ExamProject1\bin\System.Web.Helpers.dll
+C:\Users\Ian\Desktop\test\ExamProject1\bin\System.Web.Mvc.dll
+C:\Users\Ian\Desktop\test\ExamProject1\bin\System.Web.Optimization.dll
+C:\Users\Ian\Desktop\test\ExamProject1\bin\System.Web.Razor.dll
+C:\Users\Ian\Desktop\test\ExamProject1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ian\Desktop\test\ExamProject1\bin\System.Web.WebPages.dll
+C:\Users\Ian\Desktop\test\ExamProject1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ian\Desktop\test\ExamProject1\bin\WebGrease.dll
+C:\Users\Ian\Desktop\test\ExamProject1\bin\EntityFramework.xml
+C:\Users\Ian\Desktop\test\ExamProject1\bin\EntityFramework.SqlServer.xml
+C:\Users\Ian\Desktop\test\ExamProject1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ian\Desktop\test\ExamProject1\bin\System.Web.Helpers.xml
+C:\Users\Ian\Desktop\test\ExamProject1\bin\System.Web.Mvc.xml
+C:\Users\Ian\Desktop\test\ExamProject1\bin\System.Web.Optimization.xml
+C:\Users\Ian\Desktop\test\ExamProject1\bin\System.Web.Razor.xml
+C:\Users\Ian\Desktop\test\ExamProject1\bin\System.Web.WebPages.xml
+C:\Users\Ian\Desktop\test\ExamProject1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ian\Desktop\test\ExamProject1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ian\Desktop\test\ExamProject1\bin\Antlr3.Runtime.pdb
+C:\Users\Ian\Desktop\test\ExamProject1\bin\Newtonsoft.Json.xml
+C:\Users\Ian\Desktop\test\ExamProject1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ian\Desktop\test\ExamProject1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ian\Desktop\test\ExamProject1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ian\Desktop\test\ExamProject1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ian\Desktop\test\ExamProject1\bin\Microsoft.AI.Web.xml
+C:\Users\Ian\Desktop\test\ExamProject1\obj\Debug\ExamProject1.csprojAssemblyReference.cache
+C:\Users\Ian\Desktop\test\ExamProject1\obj\Debug\ExamProject1.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\test\ExamProject1\obj\Debug\ExamProject1.csproj.CopyComplete
+C:\Users\Ian\Desktop\test\ExamProject1\obj\Debug\ExamProject1.dll
+C:\Users\Ian\Desktop\test\ExamProject1\obj\Debug\ExamProject1.pdb
